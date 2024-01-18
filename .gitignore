@@ -1,0 +1,17 @@
+data/base_data/
+data/Demo/
+data/MSCOCO/__pycache__/
+data/MSCOCO/annotations/
+data/MSCOCO/images/
+data/MSCOCO/test2017.zip
+data/MSCOCO/train2017.zip
+data/MSCOCO/val2017.zip
+data/PW3D/__pycache__/
+data/PW3D/imageFiles/
+data/PW3D/readme_and_demo/
+data/PW3D/sequenceFiles/
+data/PW3D/3DPW_test.json
+data/PW3D/3DPW_train.json
+data/PW3D/3DPW_validation.json
+
+main/__pycache__/

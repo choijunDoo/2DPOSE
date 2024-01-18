@@ -1,0 +1,18 @@
+DATASET:
+    train_list: ['MSCOCO']
+    validation_list: ['MSCOCO']
+    # test_list: ['MSCOCO']
+    select_seq_name: []
+    num_joint: 17
+    maximum_people: 13
+    workers: 0
+
+HMR:
+    weight_path: 'data/base_data/pretrained_models/hmr_basemodel.pt'
+
+TRAIN:  
+    total_cycle: 12
+    optimizer: 'adam'
+    scheduler: 'cosine'
+    lr: 5.0e-5
+    min_lr: 1.0e-6
