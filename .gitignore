@@ -13,5 +13,6 @@ data/PW3D/sequenceFiles/
 data/PW3D/3DPW_test.json
 data/PW3D/3DPW_train.json
 data/PW3D/3DPW_validation.json
+lib/core/__pycache__/
 
 main/__pycache__/
